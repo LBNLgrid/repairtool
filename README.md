@@ -55,7 +55,7 @@ In order to modify the data, there is a detailed set of files that can be modifi
 The mathematical models to support repair can be found in open access journal publications.
 
 Publications:
-- [Paper with final methodology and demonstration](http://arxiv.org/abs/2209.14460)
+- [Paper with final methodology and demonstration](https://ieeexplore.ieee.org/document/10115468)
 - [Previous publication](https://www.mdpi.com/1996-1073/14/24/8482)
 
 ## Authors
