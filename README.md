@@ -4,8 +4,6 @@ The Risk-controlled Expansion Planning with Distributed Resources (REPAIR) is an
 
 REPAIR is a risk-based optimization and decision-making model allowing informed and transparent “cost vs risk” decisions regarding infrastructural planning of electric utilities. The model considers long-term resilience and reliability planning strategies that rely on traditional infrastructure upgrade (e.g. circuit hardening, reinforcement, new substations, etc.) or new investment alternatives, such as DERs.
 
-This code is also available to use as an [online tool](https://repairtool.lbl.gov/).
-
 ### Prerequisites
 
 For using this package, you need to use Python 3.8+, along with the libraries
