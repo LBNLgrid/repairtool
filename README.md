@@ -47,7 +47,7 @@ which will output files in solutions folder.
 
 ## Modifying Dataset
 
-In order to modify the data, there is a detailed set of files that can be modified, which are present in the example_case folder. By modifying this values, or by using a different folder entirely, the inputs from this model can be changed. The [online tool](https://repairtool.lbl.gov/) also might be an easier choice in order to do this.
+In order to modify the data, there is a detailed set of files that can be modified, which are present in the example_case folder. By modifying this values, or by using a different folder entirely, the inputs from this model can be changed.
 
 
 ### Research
