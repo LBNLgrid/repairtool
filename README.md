@@ -64,12 +64,6 @@ Project Team
 * **Alan Valenzuela** - *Project team* - [Alan Valenzuela](alanvalenzuela@lbl.gov)
 * **Joe Eto** - *Project team* - [Joe Eto](jheto@lbl.gov)
 
-Industry Partners:
-REPAIR was developed in partnership with Commonwealth Edison.
-
-![alt text](others/lbnl.png)
-![alt text](others/comed.jpeg)
-
 
 
 ## Copyright Notice
